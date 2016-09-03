@@ -31,7 +31,7 @@ Each team member should clone the repository as follows.
    
 4. Open the project in IntelliJ,  and build it (&#8984;-F9).
    
-4. Invoke the provided run script to run the sample code.
+4. In your terminal window, invoke the provided run script to run the sample code.
 
    ```
    $ ./run
@@ -154,13 +154,10 @@ Some extra hints:
 
 ## The assignment
 
-Each tech lead should email `Alex Samuel <alex@c4q.nyc>` and CC: `Alex Qin <aq@c4q.nyc>` the link to the team repository.
-
 Your goal is to design the flashiest and most exciting sign board you can.  Each team will demo its sign board next week.
 
 Please use _only_ the `SignBoard` class for drawing the sign board, and do not modify it.  Imagine the sign board is a piece of hardware-- you can't just modify it however you like!
 
 Feel free to explore the code we've provided you on the side.
 
-
-
+This assignment is due **Saturday 9/10 by 8pm**. All code should be committed and pushed by the deadline. Each team member should complete the Google Form (check Slack!) to submit.
